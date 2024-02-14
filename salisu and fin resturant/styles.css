@@ -1,0 +1,90 @@
+. {
+  margin: o;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#header-section {
+  background-color: tomato;
+}
+
+#heros {
+  background-image: url(Images/PHOTO-2024-02-13-13-57-19.jpg);
+  background-size: cover;
+  height: 100vh;
+  height: 700px;
+  margin-top: 1rem;
+}
+#heros---text h1 {
+  font-size: 5rem;
+  color: whitesmoke;
+  font-family: "Amatic sc", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#heros---text h2 {
+  font-size: 5rem;
+  color: whitesmoke;
+  font-family: "Amatic sc", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.botton {
+  height: 50px;
+  color: whitesmoke;
+  border-radius: 30px;
+  border: none;
+  font-family: "Amatic SC", sans-serif;
+  font-size: large;
+  margin-top: 2rem;
+  padding: 10px;
+  padding-inline: 2rem;
+  font-weight: 600;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+  background: hsl(0, 66%, 44%);
+}
+.botton:hover {
+  background-color: rgb(22, 94, 22);
+}
+
+#orderbutton {
+  height: 50px;
+  border-radius: 10px;
+  border: none;
+  color: whitesmoke;
+  font-family: "Amatic SC", sans-serif;
+  font-size: large;
+  padding: 10px;
+  padding-inline: 2rem;
+  font-weight: 600;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+  background: hsl(0, 66%, 44%);
+}
+#orderbutton:hover {
+  background-color: rgb(22, 94, 22);
+}
+#about---container div {
+  width: 50%;
+}
+#about---container img {
+  height: 300px;
+  width: 100%;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  height: ;
+}
+.footer {
+  font-size: 24px; /* You can adjust the size */
+  margin-right: 10px;
+  padding: 50px; /* Add spacing between icons */
+}
